@@ -17,7 +17,7 @@ body {
 }
 
 .header {
-    background-image: url('https://drive.google.com/uc?export=download&id=1ioXNkzAS_0o48uPajXs7E-i9wq11XAX3');
+    background-image: url('imagenes/bg.png');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -117,7 +117,7 @@ body {
 }
 
 .general-1 {
-    background-image: url('https://drive.usercontent.google.com/download?id=18NBHmtnJvKLqh6DMyyOoHR0H6IHRl1Y9&authuser=0');
+    background-image: url('imagenes/direccion.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -126,7 +126,7 @@ body {
 }
 
 .general-2 {
-    background-image: url("https://drive.usercontent.google.com/download?id=1w5hXjafvF_xQP0PKX0BennbqDvn9d2Zl&authuser=0");
+    background-image: url("imagenes/jornadas.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -135,7 +135,7 @@ body {
 }
 
 .general-3 {
-    background-image: url("https://drive.usercontent.google.com/download?id=1t11i3RcaSlNJg2HYBdGVrjbqWAcE61sm&authuser=0");
+    background-image: url("imagenes/especialidades.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -163,7 +163,7 @@ h2 {
 
 .info-1 {
     padding: 250px 0;
-    background-image: url('https://drive.usercontent.google.com/download?id=1cwjDE8aJJjgjTm3W9OQAkA5s6b1dDXJG&authuser=0');
+    background-image: url('imagenes/bg\ 2.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
