@@ -17,7 +17,7 @@ body {
 }
 
 .header {
-    background-image: url('imagenes/bg.png');
+    background-image: url('./bg.png');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -117,7 +117,7 @@ body {
 }
 
 .general-1 {
-    background-image: url('imagenes/direccion.png');
+    background-image: url('./direccion.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -126,7 +126,7 @@ body {
 }
 
 .general-2 {
-    background-image: url("imagenes/jornadas.png");
+    background-image: url("./jornadas.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -135,7 +135,7 @@ body {
 }
 
 .general-3 {
-    background-image: url("imagenes/especialidades.png");
+    background-image: url("./especialidades.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -163,7 +163,7 @@ h2 {
 
 .info-1 {
     padding: 250px 0;
-    background-image: url('imagenes/bg\ 2.png');
+    background-image: url('./bg\ 2.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
